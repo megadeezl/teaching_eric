@@ -8,8 +8,8 @@ public class HelloWorld {
         String title;
 
         System.out.println("What is your Name");
-      //  String name = in.nextLine();
-     //   System.out.println("Hello " + name);
+        String name = in.nextLine();
+        System.out.println("Hello " + name);
 
     }
 }
